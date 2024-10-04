@@ -1,4 +1,4 @@
-# Mixed-Messages-Project-1
+# Mixed Messages Project
 
 ## Project Outline
 
